@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/Irfaan1S/Irfaan1S/blob/main/.github/workflows/raw/output/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Irfaan1S/Irfaan1S/.github/workflows/raw/output/snake.yml" alt="Snake animation" />
 
 ###
 
