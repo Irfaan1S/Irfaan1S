@@ -48,9 +48,9 @@
 ###
 
 <br clear="both">
-
+<div align ="center">
 <img src="https://github.com/Irfaan1S/Irfaan1S/blob/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <div align="left">
