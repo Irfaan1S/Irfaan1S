@@ -1,60 +1,89 @@
-<h1 align="left">Hi 👋! My name is Irfaan and I'm an Electronics Engineering Student (3rd Year).</h1>
+<h1 align="center">Hi there! I'm Irfaan 👋</h1>
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7EF&center=true&vCenter=true&random=false&width=500&lines=Electronics+Engineer+%7C+IC+Design+Enthusiast;Working+on+VLSI+Flow+%7C+RTL+Design;Always+Curious+to+Build+Better+Chips+🧠🔧" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/wgFwZ4YQIDq3K/giphy.gif" width="600" alt="IC Design GIF" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year **Electronics Engineering** student  
+- ⚡ Currently working on **VLSI Design Projects** (RTL to GDSII flow)  
+- 🧩 Skilled in **Verilog**, **SystemVerilog**, **C/C++**, **Python**, and **Digital Logic**  
+- 🛠️ Hands-on with **Cadence**, **Synopsys**, and **ModelSim**  
+- 📡 Exploring topics in **Physical Design**, **ASIC Design**, **Timing Analysis**, and **Synthesis**  
+- 🤝 Open to collaborations on semiconductor or hardware-based projects  
+- 💬 Ask me anything about RTL coding or chip design — I'd love to help!  
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Synopsys_logo.svg" height="40" alt="Synopsys" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Cadence_Logo.svg" height="40" alt="Cadence" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irfaan1S&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Irfaan1S&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irfaan1S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Irfaan1S&show_icons=true&theme=tokyonight&locale=en" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfaan1S&theme=tokyonight&hide_border=false" height="180" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/u2hkFDdhXkX1C/giphy-downsized-large.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irfaan1S&layout=compact&theme=tokyonight" height="150" />
 </div>
 
-###
+---
 
-<div align="left">
+## 🧠 Contribution Graph
+
+[![Irfaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Irfaan1S&theme=dracula)](https://github.com/Irfaan1S)
+
+---
+
+## 🐍 Snake Animation
+
+<div align="center">
+  <img src="https://github.com/Irfaan1S/Irfaan1S/blob/output/snake.svg" alt="snake gif" />
 </div>
 
-###
+---
 
-<br clear="both">
-<div align ="center">
-<img src="https://github.com/Irfaan1S/Irfaan1S/blob/output/snake.svg" alt="Snake animation" />
-</div>
+## 🌐 Let's Connect!
 
-<div align="left">
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/irfaan1s" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/irfaan_1s" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:irfaan1s@example.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
+  </a>
+</p>
 
+---
 
-<div align="left">
-</div>
+## 👁️ Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Irfaan1S&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
