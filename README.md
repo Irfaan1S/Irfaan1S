@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Irfaan and I'm an Electronics Engineering Student (2nd Year).</h1>
+<h1 align="left">Hi 👋! My name is Irfaan and I'm an Electronics Engineering Student (3rd Year).</h1>
 
 ###
 
