@@ -14,22 +14,24 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="code animation" />
 </p>
 
----
 
-## 👨‍💻 About Me
-
-- 🎓 I'm a 3rd-year **Electronics and Communication Engineering** student  
-- 💡 Passionate about **VLSI**, **Semiconductors**, and **Digital Logic Design**  
-- ⚙️ Hands-on with tools like **Verilog**, **SystemVerilog**, **Cadence**, and **Synopsys**  
-- 🌱 Currently learning: **ASIC Flow**, **RTL Design**, and **Timing Analysis**  
-- 📬 Always open to connect and collaborate on **hardware & chip design** related projects!
 
 ---
-###
+<h2>🧑‍💻 About Me</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/u2hkFDdhXkX1C/giphy-downsized-large.gif"  />
+<!-- GIF floated right and slightly lower -->
+<img src="https://media.giphy.com/media/u2hkFDdhXkX1C/giphy-downsized-large.gif" 
+     align="right" height="150" style="margin-top:10px;" />
+<ul>
+  <li>🎓 I'm a 3rd-year <b>Electronics and Communication Engineering</b> student</li>
+  <li>💡 Passionate about <b>VLSI, Semiconductors</b>, and <b>Digital Logic Design</b></li>
+  <li>⚙️ Hands-on with tools like <b>Verilog, SystemVerilog, Cadence</b>, and <b>Synopsys</b></li>
+  <li>🌱 Currently learning: <b>ASIC Flow, RTL Design</b>, and <b>Timing Analysis</b></li>
+  <li>📬 Always open to connect and collaborate on <b>hardware & chip design</b> related projects!</li>
+</ul>
 
-###
+---
+
 
 ## ⚙️ Tools & Technologies  
 
@@ -61,21 +63,19 @@
 
 ---
 
+
+
+
 ## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-irfaan-s-328182279/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/irfaan_1s" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter" />
-  </a>
-  <a href="mailto:irfaan1s@example.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" alt="Gmail" />
-  </a>
 </p>
-
 ---
+
+
 
 ## 📊 GitHub Stats  
 
