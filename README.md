@@ -25,7 +25,7 @@
 <ul>
   <li>🎓 I'm a 3rd-year <b>Electronics and Communication Engineering</b> student</li>
   <li>💡 Passionate about <b>VLSI, Semiconductors</b>, and <b>Digital Logic Design</b></li>
-  <li>⚙️ Hands-on with tools like <b>Verilog, SystemVerilog, Cadence</b>, and <b>Synopsys</b></li>
+  <li>⚙️ Hands-on with tools like <b>Verilog, SystemVerilog, Xilinx Vivado</b>, and <b>ModelSim</b></li>
   <li>🌱 Currently learning: <b>ASIC Flow, RTL Design</b>, and <b>Timing Analysis</b></li>
   <li>📬 Always open to connect and collaborate on <b>hardware & chip design</b> related projects!</li>
 </ul>
