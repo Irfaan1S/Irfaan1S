@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi there! I'm Irfaan
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving hand" width="40"/>
+  Hi there! I'm Irfaan <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving hand" width="40"/>
+  <br> a 3rd Year Electronics Student
 </h1>
 
 
@@ -73,6 +73,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
+
 ---
 
 
