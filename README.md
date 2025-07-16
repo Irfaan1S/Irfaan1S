@@ -59,7 +59,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/irfaan1s" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-irfaan-s-328182279/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/irfaan_1s" target="_blank">
@@ -80,20 +80,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irfaan1S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfaan1S&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
 ---
 
 ## 🐍 Contribution Snake Graph
 
 <p align="center">
   <img src="https://github.com/Irfaan1S/Irfaan1S/blob/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfaan1S&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
